@@ -1,0 +1,1 @@
+void Afficheetablissement(int **,int *);

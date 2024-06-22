@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Gestion_partage_supports" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Gestion_partage_supports" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Gestion_partage_supports" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Commentaires.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Commentaires.h" />
+		<Unit filename="Demandes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Demandes.h" />
+		<Unit filename="Menux.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menux.h" />
+		<Unit filename="SaisirChaine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SaisirChaine.h" />
+		<Unit filename="departements.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="departements.h" />
+		<Unit filename="etablissements.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="etablissements.h" />
+		<Unit filename="etudiants.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="etudiants.h" />
+		<Unit filename="filieres.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="filieres.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modules.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modules.h" />
+		<Unit filename="niveaux.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="niveaux.h" />
+		<Unit filename="professeurs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="professeurs.h" />
+		<Unit filename="semestres.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="semestres.h" />
+		<Unit filename="supports.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="supports.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

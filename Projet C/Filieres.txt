@@ -1,0 +1,7 @@
+1-1-1-Mathematique_applique-license
+2-1-1-Mathematique_fondamental-license
+3-1-6-Genie_informatique-Cycle_ingenieur
+4-1-6-Genie_informatique-license
+5-1-6-Intelligence_artificiel-doctorat
+6-1-3-Genie_biomedical-Cycle_ingenieur
+7-1-6-cyber_securite-master
